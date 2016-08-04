@@ -1,0 +1,37 @@
+_repo: Tales-of-Men-and-Ghosts_4514
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Wharton, Edith Newbold Jones
+    - Olivieri, David
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Edith_Wharton
+    - http://en.wikipedia.org/wiki/Edith_Wharton
+description: Published in 1910, this collection of ten short stories consists of The
+  Bolted Door, His Father's Son, The Daunt Diana, The Debt, Full Circle, The Legend,
+  The Eyes, The Blond Beast, Afterward, and The Letters. Ghost stories on the surface,
+  these pieces also read as beautiful, in-depth character studies.
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4514'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction -- 20th century'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: The bolted door -- His father's son -- The Daunt Diana -- The debt
+  -- Full circle -- The legend -- The eyes -- The blond beast -- Afterward -- The
+  letters.
+title: Tales of Men and Ghosts
+url: http://www.gutenberg.org/ebooks/4514
