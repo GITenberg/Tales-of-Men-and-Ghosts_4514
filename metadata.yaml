@@ -1,5 +1,8 @@
 _repo: Tales-of-Men-and-Ghosts_4514
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wharton, Edith
@@ -17,6 +20,8 @@ description: Published in 1910, this collection of ten short stories consists of
   Bolted Door, His Father's Son, The Daunt Diana, The Debt, Full Circle, The Legend,
   The Eyes, The Blond Beast, Afterward, and The Letters. Ghost stories on the surface,
   these pieces also read as beautiful, in-depth character studies.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4514#Tales-of-Men-and-Ghosts
 gutenberg_issued: '2003-10-01'
 gutenberg_type: Text
 identifiers:
